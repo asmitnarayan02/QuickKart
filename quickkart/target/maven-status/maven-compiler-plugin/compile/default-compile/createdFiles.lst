@@ -1,5 +1,11 @@
-com\quickkart\quickkart\controller\HealthController.class
+com\quickkart\quickkart\dto\ProductRequest.class
+com\quickkart\quickkart\dto\ProductResponse.class
 com\quickkart\quickkart\repository\ProductRepository.class
-com\quickkart\quickkart\controller\ProductController.class
+com\quickkart\quickkart\service\ProductServiceImpl.class
 com\quickkart\quickkart\entity\Product.class
 com\quickkart\quickkart\QuickKartApplication.class
+com\quickkart\quickkart\exception\GlobalExceptionHandler.class
+com\quickkart\quickkart\controller\HealthController.class
+com\quickkart\quickkart\controller\ProductController.class
+com\quickkart\quickkart\exception\ProductNotFoundException.class
+com\quickkart\quickkart\service\ProductService.class
