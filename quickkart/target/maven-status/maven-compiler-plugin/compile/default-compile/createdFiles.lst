@@ -1,2 +1,5 @@
 com\quickkart\quickkart\controller\HealthController.class
+com\quickkart\quickkart\repository\ProductRepository.class
+com\quickkart\quickkart\controller\ProductController.class
+com\quickkart\quickkart\entity\Product.class
 com\quickkart\quickkart\QuickKartApplication.class
